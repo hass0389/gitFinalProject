@@ -1,4 +1,4 @@
-# Fuad_Hassan_FinalProject
+#Fuad_Hassan_FinalProject
 
 > let numArray = [1, 4, 3, 4, 23, 6, 17, 8, 19, 10]
 for (let i = 0; i < numArray.length; i++){
